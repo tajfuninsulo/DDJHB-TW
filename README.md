@@ -1,4 +1,4 @@
-# The Data Journalism Handbook
+# 資料新聞學手冊
 
 ####The Data journalism Handbook is a free, open source reference book for anyone interested in the emerging field of data journalism.
 
@@ -6,12 +6,12 @@ It was born at a 48 hour workshop at [MozFest 2011](http://datadrivenjournalism.
 
 ![](http://datajournalismhandbook.org/djh-facing-left3.png)
 
-**Links** : [The Original text](http://datajournalismhandbook.org/)
+**Links** : [原始英文版本](http://datajournalismhandbook.org/)
 
 
-##About
+##關於
 
-The Data Journalism Handbook is an initiative of the [European Journalism Centre](http://www.ejc.net/) and the [Open Knowledge Foundation](http://okfn.org/). It is published by [O'Reilly Media](http://oreilly.com/) and freely available online under a **[Creative Commons Attribution-ShareAlike](http://creativecommons.org/licenses/by-sa/3.0/)** license.
+這本手冊是由 [European Journalism Centre](http://www.ejc.net/) 與 [Open Knowledge Foundation](http://okfn.org/) 所共同發起的計畫。紙本的版本是由 [O'Reilly Media](http://oreilly.com/) 所出版。我們同時也提供了一個使用 **[Creative Commons Attribution-ShareAlike](http://creativecommons.org/licenses/by-sa/3.0/)** 授權的免費線上版本。
 
 <hr>
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br/>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 3.0 International License</a>.
