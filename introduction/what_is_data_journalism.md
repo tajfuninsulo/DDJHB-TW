@@ -1,10 +1,10 @@
-# What Is Data Journalism?
+# 什麼是資料新聞學?
 
-<center>![](http://datajournalismhandbook.org/1.0/en/figs/incoming/01-01.png "Figure 3. Investigate your MP’s Expenses (The Guardian)")</center>
+![](http://datajournalismhandbook.org/1.0/en/figs/incoming/01-01.png "Figure 3. Investigate your MP’s Expenses (The Guardian)")
 
-<center><small>Figure 3. Investigate your MP’s Expenses (The Guardian)</small></center><br>
+<small>Figure 3. Investigate your MP’s Expenses (英國衛報)</small>
 
-What is data journalism? I could answer, simply, that it is journalism done with data. But that doesn’t help much.
+什麼是資料新聞學? 我可以簡單地回答說，就是新聞報導加上資料。但這樣說好像什麼都沒說一樣。
 
 Both ‘data’ and ‘journalism’ are troublesome terms. Some people think of ‘data’ as any collection of numbers, most likely gathered on a spreadsheet. 20 years ago, that was pretty much the only sort of data that journalists dealt with. But we live in a digital world now, a world in which almost anything can be - and almost everything is - described with numbers.
 
@@ -20,7 +20,7 @@ Data journalism can help a journalist tell a complex story through engaging info
 
 Or it can help explain how a story relates to an individual, as the BBC and the Financial Times now routinely do with their budget interactives (where you can find out how the budget affects you, rather than ‘Joe Public’). And it can open up the news gathering process itself, as The Guardian do so successfully in sharing data, context, and questions with their [Datablog](http://www.guardian.co.uk/news/datablog).
 
-Data can be the source of data journalism, or it can be the tool with which the story is told - or it can be both. Like any source, it should be treated with scepticism; and like any tool, we should be conscious of how it can shape and restrict the stories that are created with it.
+資料可以是資料新聞報導的消息來源，或著，資料也可以是用來報導新聞時所使用的工具 - 或同時兩者皆是。就如任何一種消息來源，面對資料您必須保有質疑的態度；同時，就如任何一種工具一般，Data can be the source of data journalism, or it can be the tool with which the story is told - or it can be both. Like any source, it should be treated with scepticism; and like any tool, we should be conscious of how it can shape and restrict the stories that are created with it.
 
 — *Paul Bradshaw, Birmingham City University*
 

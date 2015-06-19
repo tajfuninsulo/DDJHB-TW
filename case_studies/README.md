@@ -1,10 +1,10 @@
-# Case Studies
+# 經典範例
 
 ![](http://datajournalismhandbook.org/1.0/en/figs/incoming/03-00-cover.png)
 
 In this section we take a more in depth, behind-the-scenes look at several data journalism projects - from apps developed in a day to nine-month investigations. We learn about how data sources have been used to augment and improve coverage of everything from elections to spending, riots to corruption, the performance of schools to the price of water. As well as larger media organizations such as the BBC, the Chicago Tribune, the Guardian, the Financial Times, Helsingin Sanomat, La Nación, Wall Street Journal and the Zeit Online, we learn from smaller initiatives such as California Watch, Hacks/Hackers Buenos Aires, Propublica, and a group of local Brazilian citizen-journalists called Friends of Januária.
 
-###What's in this chapter?
+###本章重點
 
 * The Opportunity Gap
 * A 9 Month Investigation into European Structural Funds
