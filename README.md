@@ -6,7 +6,7 @@ It was born at a 48 hour workshop at [MozFest 2011](http://datadrivenjournalism.
 
 ![](http://datajournalismhandbook.org/djh-facing-left3.png)
 
-**Links** : [原始英文版本](http://datajournalismhandbook.org/)
+**Link** : [原始英文版本](http://datajournalismhandbook.org/)
 
 
 ##關於
