@@ -1,9 +1,9 @@
-# Basic Steps in Working with Data
+# 資料處理的基本工作流程
 
-There are at least three key concepts you need to understand when starting a data project:
+在開始任何一個資料處理的計畫前，至少有三個重要的概念你必須先知道 :
 
 * Data requests should begin with a list of questions you want to answer.
-* Data often is messy and needs to be cleaned.
+* 資料集常常都是雜亂並需要先清洗過的。
 * Data may have undocumented features
 
 ![figs/incoming/05-MM.png
@@ -11,7 +11,7 @@ There are at least three key concepts you need to understand when starting a dat
 
 <small>Figure 69. Messy Data</small>
 
-###Know the Questions You Want to Answer
+###知道你想回答的問題
 
 In many ways, working with data is like interviewing a live source. You ask questions of the data and get it to reveal the answers. But just as a source can only give answers about which he or she has information, a data set can only answer questions for which it has the right records and the proper variables. This means that you should consider carefully what questions you need to answer even before you acquire your data. Basically, you work backwards. First, list the data-evidenced statements you want to make in your story. Then decide which variables and records you would have to acquire and analyze in order to make those statements.
 

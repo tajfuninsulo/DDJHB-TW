@@ -8,7 +8,7 @@
 
 * 三步驟掌握資料識讀能力
 * Tips for Working with Numbers in the News
-* Basic Steps in Working with Data
+* 資料處理的基本工作流程
 * The £32 Loaf of Bread
 * Start With the Data, Finish With a Story
 * 以資料作報導
