@@ -1,6 +1,6 @@
-# Data Journalists Discuss Their Tools of Choice
+# 資料新聞記者與他們的工具
 
-Psssss. That is the sound of your data decompressing from its airtight wrapper. Now what? What do you look for? And what tools do you use to get stuck in? We asked data journalists to tell us a bit about how they work with data. Here is what they said.
+滋~~~。這是你的資料從他們密不透氣的包裝中解放出來時發出的聲音。那然後呢? 你想找的是什麼? 要用什麼工具來進行下一個程序? 我們邀請了多位資料新聞記者來告訴我們他們在工作上是如何處理這些資料。下面是他們給我們的答案。
 
 ###Lisa Evans, The Guardian
 
@@ -14,11 +14,11 @@ Psssss. That is the sound of your data decompressing from its airtight wrapper. 
 
 ###Cynthia O’Murchu, Financial Times
 
-*Am I ever going to be a coder? Very unlikely! I certainly don’t think that all reporters need to know how to code. But I do think it is very valuable for them to have a more general awareness of what is possible and know how to talk to coders.*
+*我有沒有機會有一天變成程式工程師? 非常不可能! 我也不認為所有的記者都該學會寫程式。但我的確認為記者們對目前技術與工具可提供的可能性有比較全面的瞭解是蠻重要的，還要懂得如何與程式工程師對話。*
 
-*If you’re starting out, walk don’t run. You need to persuade your colleagues and editors that working with data can get you stories that you wouldn’t otherwise get and that it’s worthwhile doing. Once they see the value of this approach, you can expand into doing more complex stories and projects.*
+*如果你剛要開始進入這一行，慢慢來不要急。If you’re starting out, walk don’t run. You need to persuade your colleagues and editors that working with data can get you stories that you wouldn’t otherwise get and that it’s worthwhile doing. Once they see the value of this approach, you can expand into doing more complex stories and projects.*
 
-*My advice is to learn Excel and do some simple stories first. Start out small and work your way up to database analysis and mapping. You can do so much in Excel - it’s an extremely powerful tool and most people don’t even use a fraction of its functionality. If you can, go on a course on Excel for journalists such as the one offered by the Centre for Investigative Journalism.*
+*我的建議是把 Excel 學好，然後先從一些簡單的小故事開始。Start out small and work your way up to database analysis and mapping. You can do so much in Excel - it’s an extremely powerful tool and most people don’t even use a fraction of its functionality. If you can, go on a course on Excel for journalists such as the one offered by the Centre for Investigative Journalism.*
 
 *With respect to interpreting data: don’t take this lightly. You have to be conscientious. Pay attention to detail and question your results. Keep notes on how you’re processing the data and keep a copy of the original data. It is easy to make a mistake. I always do my analysis two or three times practically from scratch. Even better would be to get your editor or someone else to analyze the data separately and compare the results.*
 
@@ -46,7 +46,7 @@ Psssss. That is the sound of your data decompressing from its airtight wrapper. 
 
 *I would consider Django as something rarely needed by data journalists. It is a Python web application framework, aka a tool to create big, database driven web applications. It is definitely too heavyweight for small interactive infographics.*
 
-*I also used QGis, which is an open source toolkit providing a wide range of GIS functionality needed by data journalists who deal with geo data every now and then. If you need to convert geospatial data from one format into another, then QGis is what you need. It can handle nearly every geodata format out there (Shapefiles, KML, GeoJSON, …). If you need to cut out a few regions, QGis can do this as well. Plus there is a huge community around QGis so you find tons of resources like [tutorials](http://wiki.awf.forst.uni-goettingen.de/wiki/index.php/QGIS_tutorial_2012) out in the web.*
+*我也會使用 QGis 這套軟體。, which is an open source toolkit providing a wide range of GIS functionality needed by data journalists who deal with geo data every now and then. If you need to convert geospatial data from one format into another, then QGis is what you need. It can handle nearly every geodata format out there (Shapefiles, KML, GeoJSON, …). If you need to cut out a few regions, QGis can do this as well. Plus there is a huge community around QGis so you find tons of resources like [tutorials](http://wiki.awf.forst.uni-goettingen.de/wiki/index.php/QGIS_tutorial_2012) out in the web.*
 
 *R was created mainly as a scientific visualization tool. It is hard to find any visualization method or data wrangling technique that is not already built into R. R is a universe in its own, the mecca of visual data analysis. One drawback is that you need to learn (yet another) programming language as R has it’s own language. But once you have taken the initial climb on the learning curve, there’s no tool more powerful than R. Trained data journalists can use R to analyze huge dataset which extends the limits of Excel (for instance, if you have a table with a million rows).*
 
@@ -74,15 +74,15 @@ Psssss. That is the sound of your data decompressing from its airtight wrapper. 
 
 ###Angélica Peralta Ramos, La Nacion (Argentina)
 
-*At La Nacion we use:*
+*在 La Nacion 我們使用 :*
 
-* Excel for cleaning, organising and analyzing data;
-* Google Spreadsheets for publishing and connecting with services such as Google Fusion Tables and the Junar Open Data Platform;
+* Excel 來清理，彙整和分析資料;
+* Google Spreadsheets (試算表) 來發佈資料和與其他如 Google Fusion Tables 或 [Junar Open Data Platform](http://www.junar.com/) 一類的網路服務做資料連結;
 * Junar for sharing our data and embedding it in our articles and blog posts;
 * Tableau Public for our interactive data visualizations;
 * Qlikview, a very fast business intelligence tool that we use to analyze and filter large datasets;
-* NitroPDF for converting PDFs to text and excel files;
-* Google Fusion Tables for map visualizations.
+* NitroPDF 來將 PDFs 檔案轉為純文字 (text) 與 excel 格式檔案;
+* Google Fusion Tables 來做地理圖資的視覺化呈現。
 
 ###Pedro Markun, Transparência Hacker
 

@@ -1,4 +1,4 @@
-# Getting Data from the Web
+# 從網站上取得資料
 
 You’ve tried everything else, and you haven’t managed to get your hands on the data you want. You’ve found the data on the web, but, alas - no download options are available and copy-paste has failed you. Fear not, there may still be a way to get the data out. For example you can:
 
@@ -10,11 +10,11 @@ With all those great technical options, don’t forget the simple options: often
 
 In this chapter we walk through a very basic example of scraping data from an HTML web page.
 
-###What is machine-readable data?
+###什麼是機器可讀的資料 (machine-readable data)?
 
 The goal for most of these methods is to get access to machine-readable data. Machine readable data is created for processing by a computer, instead of the presentation to a human user. The structure of such data relates to contained information, and not the way it is displayed eventually. Examples of easily machine-readable formats include CSV, XML, JSON and Excel files, while formats like Word documents, HTML pages and PDF files are more concerned with the visual layout of the information. PDF for example is a language which talks directly to your printer, it’s concerned with position of lines and dots on a page, rather than distinguishable characters.
 
-###Scraping web sites: what for?
+###「爬」網站資料 : 為什麼?
 
 Everyone has done this: you go to a web site, see an interesting table and try to copy it over to Excel so you can add some numbers up or store it for later. Yet this often does not really work, or the information you want is spread across a large number of web sites. Copying by hand can quickly become very tedious, so it makes sense to use a bit of code to do it.
 
@@ -32,7 +32,7 @@ There are, of course, limits to what can be scraped. Some factors that make it h
 
 Another set of limitations are legal barriers: some countries recognize database rights, which may limit your right to re-use information that has been published online. Sometimes, you can choose to ignore the license and do it anyway - depending on your jurisdiction, you may have special rights as a journalist. Scraping freely available Government data should be fine, but you may wish to double check before you publish. Commercial organizations - and certain NGOs - react with less tolerance and may try to claim that you’re “sabotaging” their systems. Other information may infringe the privacy of individuals and thereby violate data privacy laws or professional ethics.
 
-###Tools that help you scrape
+###爬網站時有用的工具
 
 There are many programs that can be used to extract bulk information from a web site, including browser extensions and some web services. Depending on your browser, tools like [Readability](http://www.readability.com/) (which helps extract text from a page) or [DownThemAll](http://www.downthemall.net/) (which allows you to download many files at once) will help you automate some tedious tasks, while Chrome’s [Scraper extension](https://chrome.google.com/webstore/detail/mbigbapnjcgaffohmbkdlecaccepngjd) was explicitly built to extract tables from web sites. Developer extensions like [FireBug](http://getfirebug.com/) (for Firefox, the same thing is already included in Chrome, Safari and IE) let you track exactly how a web site is structured and what communications happen between your browser and the server.
 
@@ -46,7 +46,7 @@ While some of the click-and-point scraping tools mentioned before may be helpful
 
 When displaying a web site, your browser will almost always make use of two technologies: HTTP is a way for it to communicate with the server and to request specific resource, such as documents, images or videos. HTML is the language in which web sites are composed.
 
-###The anatomy of a web page
+###一個網頁的架構
 
 Any HTML page is structured as a hierarchy of boxes (which are defined by HTML “tags”). A large box will contain many smaller ones - for example a table that has many smaller divisions: rows and cells. There are many types of tags that perform different functions - some produce boxes, others tables, images or links. Tags can also have additional properties (e.g. they can be unique identifiers) and can belong to groups called ‘classes’, which makes it possible to target and capture individual elements within a document. Selecting the appropriate elements this way and extracting their content is the key to writing a scraper.
 
@@ -61,7 +61,7 @@ Tags work like book ends, marking the start and the end of a unit. For example <
 
 <small>Figure 57. The International Atomic Energy Agency’s (IAEA) portal (news.iaea.org)</small>
 
-###An example: scraping nuclear incidents with Python
+###範例 : 使用 Python 爬核能事故資料
 
 [NEWS](http://www-news.iaea.org/EventList.aspx) is the International Atomic Energy Agency’s (IAEA) portal on world-wide radiation incidents (and a strong contender for membership in the Weird Title Club!). The web page lists incidents in a simple, blog-like site that can be easily scraped.
 

@@ -9,7 +9,7 @@ So, you’re all ready to get started on your first data journalism project. Wha
 * 五分鐘實戰手冊
 * Your Right to Data
 * Wobbing Works. Use it!
-* Getting Data from the Web
+* 從網站上取得資料
 * The Web as a Data Source
 * Crowdsourcing Data at the Guardian Datablog
 * How the Datablog Used Crowdsourcing to Cover Olympic Ticketing

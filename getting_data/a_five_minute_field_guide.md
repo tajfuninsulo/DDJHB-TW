@@ -1,10 +1,10 @@
-# A Five Minute Field Guide
+# 五分鐘實戰手冊
 
 ![figs/incoming/04-01.png](http://datajournalismhandbook.org/1.0/en/figs/incoming/04-01.png "Figure 54. datacatalogs.org (Open Knowledge Foundation)")
 
-<small>Figure 54. datacatalogs.org (Open Knowledge Foundation)</small>
+<small>Figure 54. datacatalogs.org (開放知識基金會)</small>
 
-Looking for data on a particular topic or issue? Not sure what exists or where to find it? Don’t know where to start? In this section we look at how to get started with finding public data sources on the web.
+針對特定主題或是議題想要找資料嗎? 不太確定目前有哪些資料或是在哪邊可以找到這些資料? 不知道該從哪裡開始嗎? 在這一章節我們將來談談如何開始從網路上搜尋一些公開的資料。
 
 ###Streamlining Your Search
 
@@ -36,19 +36,19 @@ Over the last few years a number of dedicated data portals, data hubs and other 
 
 * Research data. There are numerous national and disciplinary aggregators of research data, such as the [UK Data Archive](http://www.data-archive.ac.uk/). While there will be lots of data that is free at the point of access, there will also be much data that requires a subscription, or which cannot be reused or redistributed without asking permission first.
 
-###Ask a Forum
+###在論壇內提問
 
 Search for existing answers or ask a question at [Get The Data](http://getthedata.org/) or on [Quora](http://www.quora.com/). GetTheData is Q&A site where you can ask your data related questions, including where to find data relating to a particular issue, how to query or retrieve a particular data source, what tools to use to explore a data set in a visual way, how to cleanse data or get it into a format you can work with.
 
-###Ask a Mailing List
+###使用討論群組信件
 
 Mailing lists combine the wisdom of a whole community on a particular topic. For data journalists, the [Data Driven Journalism List](http://lists.okfn.org/mailman/listinfo/data-driven-journalism) and the [NICAR-L](http://www.ire.org/membership/subscribe/nicar-l.html/) lists are excellent starting points. Both of these lists are filled with data journalists and Computer Assisted Reporting (CAR) geeks, who work on all kinds of projects. Chances are that someone may have done a story like yours, and may have an idea of where to start, if not a link to the data itself. You could also try [Project Wombat](http://project-wombat.org/) (“a discussion list for difficult reference questions”), the [Open Knowledge Foundation’s many mailing lists](http://wiki.okfn.org/Mailing_Lists), mailing lists at [theInfo](http://theinfo.org/), or searching for mailing lists on the topic, or in the region that you are interested in.
 
-###Join Hacks/Hackers
+###參與駭客組織或活動
 
 [Hacks/Hackers](http://hackshackers.com/) is a rapidly expanding international grassroots journalism organization with dozens of chapters and thousands of members across four continents. Its mission is to create a network of journalists ("hacks") and technologists ("hackers") who rethink the future of news and information. With such a broad network - you stand a strong chance of someone knowing where to look for the thing you seek.
 
-###Ask an Expert
+###詢問專家
 
 Professors, public servants and industry folks often know where to look. Call them. Email them. Accost them at events. Show up at their office. Ask nicely. “I’m doing a story on X. Where would I find this? Do you know who has this?”
 
@@ -64,7 +64,7 @@ Look out for dynamic infographics on government sites. These are often powered b
 
 When you know more about what you are looking for, you may have a bit more luck with search engines!
 
-###Write an FOI Request
+###透過政府資訊公開法要求資料
 
 If you believe that a government body has the data you need, a Freedom of Information request may be your best tool. See below for more information on how to file one.
 
